@@ -33,6 +33,7 @@
 		0E42CFE722AC632900A0B01D /* icybay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E42CFDA22AC632800A0B01D /* icybay.jpg */; };
 		0E42CFE822AC632900A0B01D /* twinlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E42CFDB22AC632900A0B01D /* twinlake.jpg */; };
 		0E42CFEB22AC65A100A0B01D /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E42CFEA22AC65A100A0B01D /* LandmarkRow.swift */; };
+		0E87966D22AC6B4D0090DC1B /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87966C22AC6B4D0090DC1B /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +86,7 @@
 		0E42CFDA22AC632800A0B01D /* icybay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icybay.jpg; sourceTree = "<group>"; };
 		0E42CFDB22AC632900A0B01D /* twinlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twinlake.jpg; sourceTree = "<group>"; };
 		0E42CFEA22AC65A100A0B01D /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		0E87966C22AC6B4D0090DC1B /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,8 @@
 				0E42CF9522A7F35100A0B01D /* AppDelegate.swift */,
 				0E42CF9722A7F35100A0B01D /* SceneDelegate.swift */,
 				0E42CF9922A7F35100A0B01D /* LandmarkDetail.swift */,
+				0E87966C22AC6B4D0090DC1B /* LandmarkList.swift */,
+				0E42CFEA22AC65A100A0B01D /* LandmarkRow.swift */,
 				0E42CFC922AB8BE900A0B01D /* Models */,
 				0E42CFCE22AC631500A0B01D /* Resources */,
 				0E42CFE922AC64C500A0B01D /* Supporting Views */,
@@ -209,7 +213,6 @@
 			children = (
 				0E42CFC522A9E46700A0B01D /* CircleImage.swift */,
 				0E42CFC722AA2F2A00A0B01D /* MapView.swift */,
-				0E42CFEA22AC65A100A0B01D /* LandmarkRow.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -362,6 +365,7 @@
 				0E42CF9622A7F35100A0B01D /* AppDelegate.swift in Sources */,
 				0E42CFEB22AC65A100A0B01D /* LandmarkRow.swift in Sources */,
 				0E42CFC622A9E46700A0B01D /* CircleImage.swift in Sources */,
+				0E87966D22AC6B4D0090DC1B /* LandmarkList.swift in Sources */,
 				0E42CFC822AA2F2A00A0B01D /* MapView.swift in Sources */,
 				0E42CF9822A7F35100A0B01D /* SceneDelegate.swift in Sources */,
 				0E42CF9A22A7F35100A0B01D /* LandmarkDetail.swift in Sources */,
