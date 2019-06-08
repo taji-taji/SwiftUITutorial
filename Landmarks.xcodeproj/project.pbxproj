@@ -32,6 +32,7 @@
 		0E42CFE622AC632900A0B01D /* silversalmoncreek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E42CFD922AC632800A0B01D /* silversalmoncreek.jpg */; };
 		0E42CFE722AC632900A0B01D /* icybay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E42CFDA22AC632800A0B01D /* icybay.jpg */; };
 		0E42CFE822AC632900A0B01D /* twinlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E42CFDB22AC632900A0B01D /* twinlake.jpg */; };
+		0E42CFEB22AC65A100A0B01D /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E42CFEA22AC65A100A0B01D /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +84,7 @@
 		0E42CFD922AC632800A0B01D /* silversalmoncreek.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = silversalmoncreek.jpg; sourceTree = "<group>"; };
 		0E42CFDA22AC632800A0B01D /* icybay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icybay.jpg; sourceTree = "<group>"; };
 		0E42CFDB22AC632900A0B01D /* twinlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twinlake.jpg; sourceTree = "<group>"; };
+		0E42CFEA22AC65A100A0B01D /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -207,6 +209,7 @@
 			children = (
 				0E42CFC522A9E46700A0B01D /* CircleImage.swift */,
 				0E42CFC722AA2F2A00A0B01D /* MapView.swift */,
+				0E42CFEA22AC65A100A0B01D /* LandmarkRow.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -357,6 +360,7 @@
 			files = (
 				0E42CFCD22AC62DF00A0B01D /* Data.swift in Sources */,
 				0E42CF9622A7F35100A0B01D /* AppDelegate.swift in Sources */,
+				0E42CFEB22AC65A100A0B01D /* LandmarkRow.swift in Sources */,
 				0E42CFC622A9E46700A0B01D /* CircleImage.swift in Sources */,
 				0E42CFC822AA2F2A00A0B01D /* MapView.swift in Sources */,
 				0E42CF9822A7F35100A0B01D /* SceneDelegate.swift in Sources */,
