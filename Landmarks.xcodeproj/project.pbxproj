@@ -36,6 +36,7 @@
 		0E87966F22ACE1CD0090DC1B /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E87966E22ACE1CD0090DC1B /* charleyrivers.jpg */; };
 		0E87967122ACE5A20090DC1B /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87967022ACE5A20090DC1B /* UserData.swift */; };
 		0E87967322AE53210090DC1B /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87967222AE53210090DC1B /* Badge.swift */; };
+		0E87967522AE537C0090DC1B /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87967422AE537C0090DC1B /* HexagonParameters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,6 +92,7 @@
 		0E87966E22ACE1CD0090DC1B /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 		0E87967022ACE5A20090DC1B /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		0E87967222AE53210090DC1B /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
+		0E87967422AE537C0090DC1B /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				0E42CF9922A7F35100A0B01D /* LandmarkDetail.swift */,
 				0E87966C22AC6B4D0090DC1B /* LandmarkList.swift */,
 				0E42CFEA22AC65A100A0B01D /* LandmarkRow.swift */,
+				0E87967422AE537C0090DC1B /* HexagonParameters.swift */,
 				0E42CFC922AB8BE900A0B01D /* Models */,
 				0E42CFCE22AC631500A0B01D /* Resources */,
 				0E42CFE922AC64C500A0B01D /* Supporting Views */,
@@ -367,6 +370,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E87967522AE537C0090DC1B /* HexagonParameters.swift in Sources */,
 				0E42CFCD22AC62DF00A0B01D /* Data.swift in Sources */,
 				0E42CF9622A7F35100A0B01D /* AppDelegate.swift in Sources */,
 				0E87967322AE53210090DC1B /* Badge.swift in Sources */,
