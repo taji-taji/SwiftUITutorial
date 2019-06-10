@@ -35,6 +35,7 @@
 		0E87966D22AC6B4D0090DC1B /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87966C22AC6B4D0090DC1B /* LandmarkList.swift */; };
 		0E87966F22ACE1CD0090DC1B /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0E87966E22ACE1CD0090DC1B /* charleyrivers.jpg */; };
 		0E87967122ACE5A20090DC1B /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87967022ACE5A20090DC1B /* UserData.swift */; };
+		0E87967322AE53210090DC1B /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87967222AE53210090DC1B /* Badge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +90,7 @@
 		0E87966C22AC6B4D0090DC1B /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		0E87966E22ACE1CD0090DC1B /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 		0E87967022ACE5A20090DC1B /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		0E87967222AE53210090DC1B /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 			children = (
 				0E42CFC522A9E46700A0B01D /* CircleImage.swift */,
 				0E42CFC722AA2F2A00A0B01D /* MapView.swift */,
+				0E87967222AE53210090DC1B /* Badge.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -366,6 +369,7 @@
 			files = (
 				0E42CFCD22AC62DF00A0B01D /* Data.swift in Sources */,
 				0E42CF9622A7F35100A0B01D /* AppDelegate.swift in Sources */,
+				0E87967322AE53210090DC1B /* Badge.swift in Sources */,
 				0E42CFEB22AC65A100A0B01D /* LandmarkRow.swift in Sources */,
 				0E42CFC622A9E46700A0B01D /* CircleImage.swift in Sources */,
 				0E87966D22AC6B4D0090DC1B /* LandmarkList.swift in Sources */,
