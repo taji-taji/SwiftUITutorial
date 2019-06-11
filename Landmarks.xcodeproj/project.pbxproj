@@ -39,6 +39,7 @@
 		0E87967522AE537C0090DC1B /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87967422AE537C0090DC1B /* HexagonParameters.swift */; };
 		0E87967722AF24070090DC1B /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87967622AF24070090DC1B /* BadgeBackground.swift */; };
 		0E87967922AF24510090DC1B /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87967822AF24510090DC1B /* BadgeSymbol.swift */; };
+		0E87967B22B075320090DC1B /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87967A22B075310090DC1B /* RotatedBadgeSymbol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -97,6 +98,7 @@
 		0E87967422AE537C0090DC1B /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		0E87967622AF24070090DC1B /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 		0E87967822AF24510090DC1B /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
+		0E87967A22B075310090DC1B /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -228,6 +230,7 @@
 				0E87967222AE53210090DC1B /* Badge.swift */,
 				0E87967622AF24070090DC1B /* BadgeBackground.swift */,
 				0E87967822AF24510090DC1B /* BadgeSymbol.swift */,
+				0E87967A22B075310090DC1B /* RotatedBadgeSymbol.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -384,6 +387,7 @@
 				0E42CFC622A9E46700A0B01D /* CircleImage.swift in Sources */,
 				0E87966D22AC6B4D0090DC1B /* LandmarkList.swift in Sources */,
 				0E87967922AF24510090DC1B /* BadgeSymbol.swift in Sources */,
+				0E87967B22B075320090DC1B /* RotatedBadgeSymbol.swift in Sources */,
 				0E42CFC822AA2F2A00A0B01D /* MapView.swift in Sources */,
 				0E87967722AF24070090DC1B /* BadgeBackground.swift in Sources */,
 				0E42CF9822A7F35100A0B01D /* SceneDelegate.swift in Sources */,
