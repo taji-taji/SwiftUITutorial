@@ -46,6 +46,7 @@
 		0E87968322B079660090DC1B /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0E87968222B079660090DC1B /* hikeData.json */; };
 		0E87968522B079C30090DC1B /* HikeGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87968422B079C30090DC1B /* HikeGraph.swift */; };
 		0E87968722B079FF0090DC1B /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87968622B079FF0090DC1B /* GraphCapsule.swift */; };
+		0E87968922B1CB450090DC1B /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87968822B1CB450090DC1B /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -111,6 +112,7 @@
 		0E87968222B079660090DC1B /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		0E87968422B079C30090DC1B /* HikeGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeGraph.swift; sourceTree = "<group>"; };
 		0E87968622B079FF0090DC1B /* GraphCapsule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
+		0E87968822B1CB450090DC1B /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +167,7 @@
 				0E42CF9722A7F35100A0B01D /* SceneDelegate.swift */,
 				0E87967C22B078DB0090DC1B /* HikeView.swift */,
 				0E87967E22B078FA0090DC1B /* HikeDetail.swift */,
+				0E87968822B1CB450090DC1B /* Home.swift */,
 				0E42CF9922A7F35100A0B01D /* LandmarkDetail.swift */,
 				0E87966C22AC6B4D0090DC1B /* LandmarkList.swift */,
 				0E42CFEA22AC65A100A0B01D /* LandmarkRow.swift */,
@@ -411,6 +414,7 @@
 				0E87966D22AC6B4D0090DC1B /* LandmarkList.swift in Sources */,
 				0E87967F22B078FA0090DC1B /* HikeDetail.swift in Sources */,
 				0E87967922AF24510090DC1B /* BadgeSymbol.swift in Sources */,
+				0E87968922B1CB450090DC1B /* Home.swift in Sources */,
 				0E87967B22B075320090DC1B /* RotatedBadgeSymbol.swift in Sources */,
 				0E42CFC822AA2F2A00A0B01D /* MapView.swift in Sources */,
 				0E87967722AF24070090DC1B /* BadgeBackground.swift in Sources */,
