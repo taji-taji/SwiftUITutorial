@@ -47,6 +47,7 @@
 		0E87968522B079C30090DC1B /* HikeGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87968422B079C30090DC1B /* HikeGraph.swift */; };
 		0E87968722B079FF0090DC1B /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87968622B079FF0090DC1B /* GraphCapsule.swift */; };
 		0E87968922B1CB450090DC1B /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87968822B1CB450090DC1B /* Home.swift */; };
+		0E87968B22B319550090DC1B /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E87968A22B319550090DC1B /* CategoryRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -113,6 +114,7 @@
 		0E87968422B079C30090DC1B /* HikeGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeGraph.swift; sourceTree = "<group>"; };
 		0E87968622B079FF0090DC1B /* GraphCapsule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
 		0E87968822B1CB450090DC1B /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		0E87968A22B319550090DC1B /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +173,7 @@
 				0E42CF9922A7F35100A0B01D /* LandmarkDetail.swift */,
 				0E87966C22AC6B4D0090DC1B /* LandmarkList.swift */,
 				0E42CFEA22AC65A100A0B01D /* LandmarkRow.swift */,
+				0E87968A22B319550090DC1B /* CategoryRow.swift */,
 				0E87967422AE537C0090DC1B /* HexagonParameters.swift */,
 				0E42CFC922AB8BE900A0B01D /* Models */,
 				0E42CFCE22AC631500A0B01D /* Resources */,
@@ -401,6 +404,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E87968B22B319550090DC1B /* CategoryRow.swift in Sources */,
 				0E87968722B079FF0090DC1B /* GraphCapsule.swift in Sources */,
 				0E87967522AE537C0090DC1B /* HexagonParameters.swift in Sources */,
 				0E42CFCD22AC62DF00A0B01D /* Data.swift in Sources */,
